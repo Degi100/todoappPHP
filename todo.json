@@ -1,23 +1,8 @@
 {
-    "todo item 1": {
-        "completed": true
-    },
-    "todo item 2": {
-        "completed": true
-    },
-    "learning php 2": {
+    "chrome": {
         "completed": false
     },
-    "new todo": {
-        "completed": false
-    },
-    "todo": {
-        "completed": false
-    },
-    "internchip": {
-        "completed": false
-    },
-    "let get the party started": {
+    "firefox": {
         "completed": false
     }
 }
