@@ -1,5 +1,5 @@
 # todoapp
 Todo App with php and tiny JS.
 
-checkboxes are not running. 
-todo.json dont accepted boolean true
+## This is my fist touch with PHP and I followed this tutorial https://www.youtube.com/watch?v=NxeNqHdJFxs&ab_channel=TheCodeholic 
+
